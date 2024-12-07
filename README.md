@@ -99,12 +99,12 @@ This project is licensed under the **MIT License**. Feel free to use it for your
 
 <div align="center">
   <a href="mailto:abaig7921@gmail.com" target="_blank" title="👋 Email!">
-    <img src="https://img.shields.io/badge/Connect%20Me%20via%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-   <a href="https://github.com/MirzaAbdullahBaig" target="_blank" title="👋 Github!">
-    <img src="https://img.shields.io/badge/Connect%20Me%20via%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-   <a href="https://www.linkedin.com/in/mirzaabdullahbaig0/" target="_blank" title="👋 LinkedIn!">
-    <img src="https://img.shields.io/badge/Connect%20Me%20via%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
+    <img src="https://img.shields.io/badge/Connect%20via%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a> &nbsp;
+<a href="https://github.com/MirzaAbdullahBaig" target="_blank" title="👋 Github!">
+    <img src="https://img.shields.io/badge/Connect%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/mirzaabdullahbaig0/" target="_blank" title="👋 LinkedIn!">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 </div>
