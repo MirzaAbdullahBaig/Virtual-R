@@ -95,13 +95,16 @@ This project is licensed under the **MIT License**. Feel free to use it for your
 
 ---
 
-## 💬 Contact
+<h3 align="center">Thank you for checking out this project! If you liked it, </br> Show some ❤️ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> this repository</h3>
 
-If you want to reach out or collaborate, you can contact me via:
-- **Email**: your-email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
----
-
-✨ *Thank you for checking out this project! If you liked it, don't forget to star the repo.* ⭐
+<div align="center">
+  <a href="mailto:abaig7921@gmail.com" target="_blank" title="👋 Email!">
+    <img src="https://img.shields.io/badge/Connect%20Me%20via%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+   <a href="https://github.com/MirzaAbdullahBaig" target="_blank" title="👋 Github!">
+    <img src="https://img.shields.io/badge/Connect%20Me%20via%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+   <a href="https://www.linkedin.com/in/mirzaabdullahbaig0/" target="_blank" title="👋 LinkedIn!">
+    <img src="https://img.shields.io/badge/Connect%20Me%20via%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</div>
