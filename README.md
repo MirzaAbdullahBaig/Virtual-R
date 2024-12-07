@@ -33,16 +33,16 @@ Check out the live demo of this portfolio: [View Portfolio](https://virtualr-san
 ## 📂 Folder Structure
 
 ```
-project-folder/
+Virtual-R/
 ├── public/
-│   └── vite.svg       # Vite Image
+│   └── vite.svg      # Vite Image
 ├── src/
+│   ├── assets/       # Reusable React components
 │   ├── components/   # Reusable React components
-│   ├── App.js        # Main React app file
-│   ├── index.js      # React DOM rendering
-│   ├── styles.css    # Tailwind CSS file
-│   ├── scripts.js    # JavaScript functionality (if needed)
-│   └── pages/        # Pages for routing (if applicable)
+│   ├── constants/    # Reusable React components
+│   ├── App.jsx       # Main React app file
+│   ├── index.css     # Tailwind CSS file
+│   └── main.jsx      # JavaScript functionality
 ├── .gitignore
 ├── LICENSE
 ├── README.md         # Project documentation
