@@ -1,4 +1,4 @@
-# 🌟 Tailwind Portfolio Using React
+# 🌟 Tailwind Portfolio Using React With Framer Motion
 
 A beautifully designed and fully responsive portfolio website created using **React** and **Tailwind CSS**. This project demonstrates a modern and clean design approach, optimized for various devices and screen sizes. 🚀
 
@@ -16,6 +16,7 @@ Check out the live demo of this portfolio: [View Portfolio](https://virtualr-san
 - **Responsive Design**: Works seamlessly on desktops, tablets, and mobile devices.
 - **Modern UI**: Minimalistic and professional design to leave a lasting impression.
 - **Tailwind CSS**: Leveraging the utility-first CSS framework for fast and efficient styling.
+- **Framer Motion Animations**: Added smooth and engaging animations using Framer Motion.
 - **Reusable Components**: Organized React components for easy scalability and maintenance.
 - **Customizable**: Easily adaptable to showcase your personal or professional projects.
 
@@ -25,6 +26,7 @@ Check out the live demo of this portfolio: [View Portfolio](https://virtualr-san
 
 - **React**
 - **Tailwind CSS**
+- **Framer Motion**
 - **HTML5**
 - **JavaScript (ES6+)**
 
